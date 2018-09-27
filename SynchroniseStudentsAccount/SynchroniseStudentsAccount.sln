@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchroniseStudentsAccount", "SynchroniseStudentsAccount.csproj", "{DADBF5E5-584D-4DA1-9AAD-44F2CED6D8D8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Smart Sync Account", "..\SmartSyncAccount\SmartSyncAccount.vdproj", "{C934FCED-1CCE-4C22-B81C-33AAF5B4B523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchroniseStudentsLIB", "..\SynchroniseStudentsLIB\SynchroniseStudentsLIB.csproj", "{550BD563-1803-42D6-9316-6567BDCD2E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchroniseStudentsGUI", "..\SynchroniseStudentsGUI\SynchroniseStudentsGUI.csproj", "{0011B596-4F82-4EED-A10E-3FE54F71A567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageUtilities", "..\ManageUtilities\ManageUtilities.csproj", "{3F4CBDAF-E8C9-47E0-88DA-2F85D8E2329A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageConnexion", "..\ManageConnexion\ManageConnexion.csproj", "{9A6A1A23-B170-4F9D-B7CF-1A3C8C598C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageQueries", "..\ManageQueries\ManageQueries.csproj", "{DBC11112-7C1A-4871-8118-4BFC75A1667D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADBF5E5-584D-4DA1-9AAD-44F2CED6D8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADBF5E5-584D-4DA1-9AAD-44F2CED6D8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADBF5E5-584D-4DA1-9AAD-44F2CED6D8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADBF5E5-584D-4DA1-9AAD-44F2CED6D8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C934FCED-1CCE-4C22-B81C-33AAF5B4B523}.Debug|Any CPU.ActiveCfg = Debug
+		{C934FCED-1CCE-4C22-B81C-33AAF5B4B523}.Debug|Any CPU.Build.0 = Debug
+		{C934FCED-1CCE-4C22-B81C-33AAF5B4B523}.Release|Any CPU.ActiveCfg = Release
+		{C934FCED-1CCE-4C22-B81C-33AAF5B4B523}.Release|Any CPU.Build.0 = Release
+		{550BD563-1803-42D6-9316-6567BDCD2E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550BD563-1803-42D6-9316-6567BDCD2E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550BD563-1803-42D6-9316-6567BDCD2E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550BD563-1803-42D6-9316-6567BDCD2E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0011B596-4F82-4EED-A10E-3FE54F71A567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0011B596-4F82-4EED-A10E-3FE54F71A567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0011B596-4F82-4EED-A10E-3FE54F71A567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0011B596-4F82-4EED-A10E-3FE54F71A567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4CBDAF-E8C9-47E0-88DA-2F85D8E2329A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4CBDAF-E8C9-47E0-88DA-2F85D8E2329A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4CBDAF-E8C9-47E0-88DA-2F85D8E2329A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4CBDAF-E8C9-47E0-88DA-2F85D8E2329A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6A1A23-B170-4F9D-B7CF-1A3C8C598C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6A1A23-B170-4F9D-B7CF-1A3C8C598C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6A1A23-B170-4F9D-B7CF-1A3C8C598C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6A1A23-B170-4F9D-B7CF-1A3C8C598C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC11112-7C1A-4871-8118-4BFC75A1667D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC11112-7C1A-4871-8118-4BFC75A1667D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC11112-7C1A-4871-8118-4BFC75A1667D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC11112-7C1A-4871-8118-4BFC75A1667D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

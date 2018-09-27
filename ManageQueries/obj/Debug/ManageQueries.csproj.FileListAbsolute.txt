@@ -1,0 +1,5 @@
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\bin\Debug\ManageQueries.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\bin\Debug\ManageQueries.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\obj\Debug\ManageQueries.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\obj\Debug\ManageQueries.pdb

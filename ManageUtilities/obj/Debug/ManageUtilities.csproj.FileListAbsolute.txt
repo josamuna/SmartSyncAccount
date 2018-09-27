@@ -1,0 +1,6 @@
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\bin\Debug\ManageUtilities.dll.config
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\bin\Debug\ManageUtilities.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\bin\Debug\ManageUtilities.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\obj\Debug\ManageUtilities.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\obj\Debug\ManageUtilities.pdb

@@ -1,0 +1,16 @@
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\bin\Release\ManageConnexion.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\bin\Release\ManageConnexion.pdb
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\bin\Release\Mono.Security.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\bin\Release\MySql.Data.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\bin\Release\Npgsql.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\obj\Release\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\obj\Release\ManageConnexion.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageConnexion\obj\Release\ManageConnexion.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Release\ManageConnexion.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Release\ManageConnexion.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Release\Mono.Security.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Release\MySql.Data.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Release\Npgsql.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\obj\Release\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\obj\Release\ManageConnexion.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\obj\Release\ManageConnexion.pdb

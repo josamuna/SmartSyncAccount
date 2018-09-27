@@ -1,0 +1,16 @@
+D:\DOC\CODES\SynchroniseStudentsAccount\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.ProjectInstaller.resources
+D:\DOC\CODES\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.csproj.GenerateResource.Cache
+D:\DOC\CODES\SynchroniseStudentsAccount\bin\Debug\SynchroniseStudentsAccount.exe
+D:\DOC\CODES\SynchroniseStudentsAccount\bin\Debug\SynchroniseStudentsAccount.pdb
+D:\DOC\CODES\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.SyncAccount.resources
+D:\DOC\CODES\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.exe
+D:\DOC\CODES\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.pdb
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.exe
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.pdb
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\bin\Debug\SynchroniseStudentsAccount.exe
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\bin\Debug\SynchroniseStudentsAccount.pdb
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.ProjectInstaller.resources
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.SyncAccount.resources
+D:\DOC\CODES\ProjetStudentAccount_2\SynchroniseStudentsAccount\obj\Debug\SynchroniseStudentsAccount.csproj.GenerateResource.Cache

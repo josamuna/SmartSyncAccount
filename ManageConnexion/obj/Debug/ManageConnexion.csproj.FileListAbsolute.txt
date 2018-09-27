@@ -1,0 +1,7 @@
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Debug\ManageConnexion.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Debug\ManageConnexion.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Debug\MySql.Data.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\bin\Debug\Npgsql.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\obj\Debug\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\obj\Debug\ManageConnexion.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageConnexion\obj\Debug\ManageConnexion.pdb

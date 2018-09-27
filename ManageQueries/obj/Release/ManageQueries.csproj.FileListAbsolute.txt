@@ -1,0 +1,10 @@
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageQueries\bin\Release\ManageQueries.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageQueries\bin\Release\ManageQueries.pdb
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageQueries\obj\Release\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageQueries\obj\Release\ManageQueries.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageQueries\obj\Release\ManageQueries.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\bin\Release\ManageQueries.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\bin\Release\ManageQueries.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\obj\Release\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\obj\Release\ManageQueries.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageQueries\obj\Release\ManageQueries.pdb

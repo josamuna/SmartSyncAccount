@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SynchroniseStudentsLIB.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strParamSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UserSQL</Value>
+    </Setting>
+    <Setting Name="strParamMySQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UserMySQL</Value>
+    </Setting>
+    <Setting Name="strLogFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SynchroniseStudentsAccountLogFile</Value>
+    </Setting>
+    <Setting Name="strValueServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UserServerType</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageUtilities\bin\Release\ManageUtilities.dll.config
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageUtilities\bin\Release\ManageUtilities.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageUtilities\bin\Release\ManageUtilities.pdb
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageUtilities\obj\Release\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageUtilities\obj\Release\ManageUtilities.dll
+D:\DOC\CODES\ProjetStudentAccount_TEST\ManageUtilities\obj\Release\ManageUtilities.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\bin\Release\ManageUtilities.dll.config
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\bin\Release\ManageUtilities.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\bin\Release\ManageUtilities.pdb
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\obj\Release\ResolveAssemblyReference.cache
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\obj\Release\ManageUtilities.dll
+D:\DOC\CODES\ProjetStudentAccount\ManageUtilities\obj\Release\ManageUtilities.pdb
